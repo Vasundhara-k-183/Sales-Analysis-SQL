@@ -1,4 +1,4 @@
-# Sales Analytics SQL Portfolio (Gold Schema)
+# Sales Analytics SQL 
 
 A compact, production-style SQL project that builds reusable views and analyses for retail sales, customers, and products. It demonstrates time-series KPIs, part‑to‑whole breakdowns, segmentation logic, and window‑function techniques—ready to plug into BI tools like Power BI or Tableau.
 
